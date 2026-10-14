@@ -13,6 +13,8 @@ SPOTIFY_CLIENT_SECRET=YOUR SECRET
 get them here https://developer.spotify.com/
 Login
 Go to dashboard ---> create app fill in the required fields and for Redirect URIs just put spotify.com
+
+
 Run:
 node moodMusic.js mood
 replace mood with the mood you want to test
