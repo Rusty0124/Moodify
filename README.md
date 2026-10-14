@@ -7,7 +7,7 @@ Setup
 #3: Create .env with
 ```
 SPOTIFY_CLIENT_ID=YOUR CLIENT ID
-SPOTIFY_CLIENT_SECRET= YOUR SECRET
+SPOTIFY_CLIENT_SECRET=YOUR SECRET
 
 ```
 get them here https://developer.spotify.com/
